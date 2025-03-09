@@ -19,22 +19,18 @@ This frontend is designed to work seamlessly with a Laravel backend. You can fin
 
 ## Project Setup
 
-### Install dependencies
-
 ```sh
-composer install
+npm install
 ```
 
-### Create .env file
+### Compile and Hot-Reload for Development
 
 ```sh
-cp .env.example .env
+npm run dev
 ```
 
-### Optionally, create db and run migrations
-
-### Run dev server
+### Type-Check, Compile and Minify for Production
 
 ```sh
-php artisan serve
+npm run build
 ```
