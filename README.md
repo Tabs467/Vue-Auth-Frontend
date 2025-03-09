@@ -4,12 +4,12 @@ A Vue.js-based authentication UI that communicates with a backend API for user m
 
 ## Tech Stack
 
-Vue.js – Frontend framework
-Axios – HTTP client for API requests
-Tailwind CSS – Styling framework
-Vite – Fast build tool for Vue.js
-Pinia – State management
-Pinia Persisted State Plugin – Persistent state storage
+- **Vue.js** – Frontend framework  
+- **Axios** – HTTP client for API requests  
+- **Tailwind CSS** – Styling framework  
+- **Vite** – Fast build tool for Vue.js  
+- **Pinia** – State management  
+- **Pinia Persisted State Plugin** – Persistent state storage  
 
 ## Project Setup
 
