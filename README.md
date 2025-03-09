@@ -1,18 +1,15 @@
-# frontend
+# Vue-Auth-Frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+A Vue.js-based authentication UI that communicates with a backend API for user management. This project provides a secure and responsive authentication system, including login, registration, and user dashboard - with state persistence for a smooth user experience.
 
-## Recommended IDE Setup
+## Tech Stack
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+Vue.js – Frontend framework
+Axios – HTTP client for API requests
+Tailwind CSS – Styling framework
+Vite – Fast build tool for Vue.js
+Pinia – State management
+Pinia Persisted State Plugin – Persistent state storage
 
 ## Project Setup
 
